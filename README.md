@@ -27,7 +27,7 @@ I'm a self-taught passionate Full-Stack developer from Nigeria NG
 
 <p><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Valentine%Blaze-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valentine-blaze/)](https://www.linkedin.com/in/valentine-blaze/)
+[![Linkedin Badge](https://img.shields.io/badge/-Valentine%20Blaze-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valentine-blaze/)](https://www.linkedin.com/in/valentine-blaze/)
 [![Twitter Badge](https://img.shields.io/badge/-@V_Blaze_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/blaze_valentine)](https://twitter.com/blaze_valentine)
 
 
