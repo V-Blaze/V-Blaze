@@ -2,11 +2,10 @@
 
 <br />
 
-I'm a self-taught passionate Full-Stack developer from Nigeria NG
+I'm a passionate Full-Stack developer from Nigeria NG
 
 **About me**
 
-- 💼 Currently a Student at [Microverse](http://microverse.org/)
 
 - 📈 Built Web-Apps, Codes 8hrs + everyday, Collaborate with other developers around the world and more
 
